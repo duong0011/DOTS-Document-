@@ -2,10 +2,6 @@
 ## Tài liệu Thiết kế và Triển khai cho Game Top-down RPG#
 
 **Phiên bản:** 1.0  
-**Tác giả:** Chuyên gia Kiến trúc Game  
-**Đối tượng độc giả:** Lập trình viên Unity trình độ Trung cấp  
-**Yêu cầu tiên quyết:** Kiến thức cơ bản về Unity/C#, quen thuộc với các khái niệm ECS  
-
 ---
 
 ## Mục lục#
