@@ -23,7 +23,7 @@
 
 # Chương 1: Giới thiệu và Lý thuyết ECS/DOTS
 ## Tại sao chọn DOTS/ECS cho Hệ thống AI Quy mô Lớn?
-Trong phát triển game hiện đại, đặc biệt là các game yêu cầu hàng trăm hoặc hàng ngàn tác nhân AI (như game top-down RPG với 500+ unit của chúng ta), các phương pháp phát triển Unity truyền thống gặp phải nhiều hạn chế nghiêm trọng về hiệu năng. Chương này giới thiệu các khái niệm cơ bản về Unity Data-Oriented Technology Stack (DOTS) và Entity Component System (ECS), đồng thời giải thích tại sao chúng là lựa chọn thiết yếu cho các hệ thống AI hiệu năng cao.
+Trong phát triển game hiện đại, đặc biệt là các game yêu cầu hàng trăm hoặc hàng ngàn tác nhân AI, các phương pháp phát triển Unity truyền thống gặp phải nhiều hạn chế nghiêm trọng về hiệu năng. Chương này giới thiệu các khái niệm cơ bản về Unity Data-Oriented Technology Stack (DOTS) và Entity Component System (ECS), đồng thời giải thích tại sao chúng là lựa chọn thiết yếu cho các hệ thống AI hiệu năng cao.
 
 ### 1.1. Vấn đề với phương pháp MonoBehaviour truyền thống
 Phát triển Unity truyền thống sử dụng script MonoBehaviour gặp phải các vấn đề nghiêm trọng khi mở rộng quy mô lên số lượng lớn entity:
